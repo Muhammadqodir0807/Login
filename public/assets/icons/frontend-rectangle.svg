@@ -1,0 +1,7 @@
+<svg width="15" height="155" viewBox="0 0 15 155" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="15" width="15" height="15" transform="rotate(90 15 0)" fill="white"/>
+<rect x="15" y="70" width="15" height="15" transform="rotate(90 15 70)" fill="white" fill-opacity="0.2"/>
+<rect x="15" y="35" width="15" height="15" transform="rotate(90 15 35)" fill="white" fill-opacity="0.2"/>
+<rect x="15" y="105" width="15" height="15" transform="rotate(90 15 105)" fill="white" fill-opacity="0.2"/>
+<rect x="15" y="140" width="15" height="15" transform="rotate(90 15 140)" fill="white" fill-opacity="0.2"/>
+</svg>
